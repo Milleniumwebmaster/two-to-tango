@@ -4,7 +4,7 @@ let message;
 
 // Assign values to these variables.
 title = "Sallings's Special Offers";
-message = '50% off!';
+message = '100% off!';
 
 // Get the element with an id of title.
 const elTitle = document.getElementById('title');
